@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 122b4cd9fb4705e45b02eba2293394f0
+timeCreated: 1430598894
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Base Human
+    100002: Base HumanHead
+    100004: Base HumanHeadGizmo
+    100006: Base HumanLCalf
+    100008: Base HumanLCalfGizmo
+    100010: Base HumanLCollarbone
+    100012: Base HumanLCollarboneGizmo
+    100014: Base HumanLDigit11
+    100016: Base HumanLDigit21
+    100018: Base HumanLDigit31
+    100020: Base HumanLDigit41
+    100022: Base HumanLDigit51
+    100024: Base HumanLFoot
+    100026: Base HumanLForearm
+    100028: Base HumanLForearmGizmo
+    100030: Base HumanLIKTarget
+    100032: Base HumanLPalm
+    100034: Base HumanLPalmGizmo
+    100036: Base HumanLPlatform
+    100038: Base HumanLThigh
+    100040: Base HumanLUpperarm
+    100042: Base HumanLUpperarmGizmo
+    100044: Base HumanNeck
+    100046: Base HumanPelvis
+    100048: Base HumanPelvisGizmo
+    100050: Base HumanRCalf
+    100052: Base HumanRCalfGizmo
+    100054: Base HumanRCollarbone
+    100056: Base HumanRCollarboneGizmo
+    100058: Base HumanRDigit11
+    100060: Base HumanRDigit21
+    100062: Base HumanRDigit31
+    100064: Base HumanRDigit41
+    100066: Base HumanRDigit51
+    100068: Base HumanRFoot
+    100070: Base HumanRForearm
+    100072: Base HumanRForearmGizmo
+    100074: Base HumanRibcage
+    100076: Base HumanRibcageGizmo
+    100078: Base HumanRIKTarget
+    100080: Base HumanRPalm
+    100082: Base HumanRPalmGizmo
+    100084: Base HumanRPlatform
+    100086: Base HumanRThigh
+    100088: Base HumanRThighGizmo
+    100090: Base HumanRUpperarm
+    100092: Base HumanRUpperarmGizmo
+    100094: Base HumanSpine1
+    100096: Base HumanSpine2
+    100098: //RootNode
+    100100: CHR_woman_body
+    400000: Base Human
+    400002: Base HumanHead
+    400004: Base HumanHeadGizmo
+    400006: Base HumanLCalf
+    400008: Base HumanLCalfGizmo
+    400010: Base HumanLCollarbone
+    400012: Base HumanLCollarboneGizmo
+    400014: Base HumanLDigit11
+    400016: Base HumanLDigit21
+    400018: Base HumanLDigit31
+    400020: Base HumanLDigit41
+    400022: Base HumanLDigit51
+    400024: Base HumanLFoot
+    400026: Base HumanLForearm
+    400028: Base HumanLForearmGizmo
+    400030: Base HumanLIKTarget
+    400032: Base HumanLPalm
+    400034: Base HumanLPalmGizmo
+    400036: Base HumanLPlatform
+    400038: Base HumanLThigh
+    400040: Base HumanLUpperarm
+    400042: Base HumanLUpperarmGizmo
+    400044: Base HumanNeck
+    400046: Base HumanPelvis
+    400048: Base HumanPelvisGizmo
+    400050: Base HumanRCalf
+    400052: Base HumanRCalfGizmo
+    400054: Base HumanRCollarbone
+    400056: Base HumanRCollarboneGizmo
+    400058: Base HumanRDigit11
+    400060: Base HumanRDigit21
+    400062: Base HumanRDigit31
+    400064: Base HumanRDigit41
+    400066: Base HumanRDigit51
+    400068: Base HumanRFoot
+    400070: Base HumanRForearm
+    400072: Base HumanRForearmGizmo
+    400074: Base HumanRibcage
+    400076: Base HumanRibcageGizmo
+    400078: Base HumanRIKTarget
+    400080: Base HumanRPalm
+    400082: Base HumanRPalmGizmo
+    400084: Base HumanRPlatform
+    400086: Base HumanRThigh
+    400088: Base HumanRThighGizmo
+    400090: Base HumanRUpperarm
+    400092: Base HumanRUpperarmGizmo
+    400094: Base HumanSpine1
+    400096: Base HumanSpine2
+    400098: //RootNode
+    400100: CHR_woman_body
+    4300000: CHR_woman_body
+    7400000: PRS_Female
+    9500000: //RootNode
+    13700000: CHR_woman_body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

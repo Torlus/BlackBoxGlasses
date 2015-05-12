@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="e:\Midgarr\Projects\Datarmine\20150505\20150505\Android\Assets\Cardboard\Scripts\Cardboard.cs">
+    <Files>
+      <File FileName="..\Android\Assets\MainGUI.cs" Line="1" Column="1" />
+      <File FileName="e:\Midgarr\Projects\Datarmine\20150505\20150505\Android\Assets\Cardboard\Scripts\Cardboard.cs" Line="586" Column="71" />
+      <File FileName="..\Android\Assets\DataTransfer.cs" Line="75" Column="3" />
+      <File FileName="..\Android\Assets\Gazed.cs" Line="91" Column="27" />
+      <File FileName="..\Android\Assets\Cardboard\Scripts\CardboardProfile.cs" Line="14" Column="59" />
+      <File FileName="..\Android\Assets\05_Scripts\Billboard.cs" Line="8" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GazeInputModuleCustom.cs">
+    <Files>
+      <File FileName="Assets\MainGUI.cs" Line="12" Column="29" />
+      <File FileName="Assets\Standard Assets\Cameras\Scripts\FreeLookCam.cs" Line="1" Column="1" />
+      <File FileName="Assets\GazeInputModuleCustom.cs" Line="14" Column="39" />
+      <File FileName="Assets\Gazed.cs" Line="49" Column="17" />
+      <File FileName="Assets\Cardboard\Scripts\Cardboard.cs" Line="604" Column="33" />
+      <File FileName="Assets\Cardboard\Scripts\CardboardHead.cs" Line="1" Column="1" />
+      <File FileName="Assets\Cardboard\Scripts\CardboardProfile.cs" Line="1" Column="1" />
+      <File FileName="f:\Midgarr\Datarmine\Project_Datarmine_V0.02\Assets\Cardboard\Editor\CardboardEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets\05_Scripts\Billboard.cs" Line="1" Column="1" />
+      <File FileName="Assets\DataTransfer.cs" Line="67" Column="28" />
+      <File FileName="f:\Midgarr\Datarmine\Project_Datarmine_V0.02\Assets\Standard Assets\Cameras\Scripts\AbstractTargetFollower.cs" Line="17" Column="45" />
+      <File FileName="f:\Midgarr\Datarmine\Project_Datarmine_V0.02\Assets\Standard Assets\Cameras\Scripts\LookatTarget.cs" Line="22" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
